@@ -1,7 +1,3 @@
 <Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Geno_traveler.vcxproj" />
+  <Project Path="Geno_traveler.csproj" />
 </Solution>
