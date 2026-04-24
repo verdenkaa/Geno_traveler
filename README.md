@@ -70,6 +70,7 @@ dotnet run --project Geno_traveler
 - Слева – карта городов и лучший маршрут для текущего поколения.
 - Справа – график сходимости (длина лучшего маршрута от поколения).
 
-<img width="1188" height="498" alt="image" src="https://github.com/user-attachments/assets/918d8e35-4205-4cca-8858-4fcb8f7b4984" />
-
-<img width="1187" height="489" alt="image" src="https://github.com/user-attachments/assets/8eaf9dfa-e616-493f-a3ba-7b1ade3625ee" />
+| Скриншот | Поколение |
+|----------|-----------|
+|<img width="1188" height="498" alt="image" src="https://github.com/user-attachments/assets/918d8e35-4205-4cca-8858-4fcb8f7b4984" />| 151 |
+|<img width="1187" height="489" alt="image" src="https://github.com/user-attachments/assets/8eaf9dfa-e616-493f-a3ba-7b1ade3625ee" /> | 9991 |
