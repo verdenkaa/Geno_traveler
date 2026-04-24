@@ -328,7 +328,7 @@ namespace GeneticAlgorithm
                     parameters = new
                     {
                         populationSize,
-                        maxGenerations, // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        maxGenerations,
                         wrGroupSize,
                         mutationChance,
                         greedyNeighbors,
